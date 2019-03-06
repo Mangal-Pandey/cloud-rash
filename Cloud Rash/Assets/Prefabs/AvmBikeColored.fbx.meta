@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: c5f2a10608ba5480c82d9f2cfb362523
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fairingSet
+    100004: frontAxle
+    100006: frontBone
+    100008: frontMudGuard
+    100010: frontWheel
+    100012: frontWheelBone
+    100014: frontWheelBone_end
+    100016: fuelTank
+    100018: handle
+    100020: headLight
+    100022: leftShockAb
+    100024: rearAxle
+    100026: rearWheel
+    100028: rightShockAb
+    100030: rootBone
+    100032: rootBone 1
+    100034: seat
+    100036: tailLight
+    400000: //RootNode
+    400002: fairingSet
+    400004: frontAxle
+    400006: frontBone
+    400008: frontMudGuard
+    400010: frontWheel
+    400012: frontWheelBone
+    400014: frontWheelBone_end
+    400016: fuelTank
+    400018: handle
+    400020: headLight
+    400022: leftShockAb
+    400024: rearAxle
+    400026: rearWheel
+    400028: rightShockAb
+    400030: rootBone
+    400032: rootBone 1
+    400034: seat
+    400036: tailLight
+    2100000: fuelTank
+    2100002: seatLeatherMaterial
+    2100004: tailLightEmitterMaterial
+    2100006: tyreMaterial
+    2100008: bodyGrey
+    2100010: headLightEmitterMaterial
+    4300000: fuelTank
+    4300002: seat
+    4300004: tailLight
+    4300006: rearAxle
+    4300008: rearWheel
+    4300010: fairingSet
+    4300012: frontWheel
+    4300014: rightShockAb
+    4300016: headLight
+    4300018: handle
+    4300020: leftShockAb
+    4300022: frontAxle
+    4300024: frontMudGuard
+    7400000: rootBone|idle
+    7400002: rootBone|leftToStraight
+    7400004: rootBone|leftTurn
+    7400006: rootBone|rightToStraight
+    7400008: rootBone|rightTurn
+    9500000: //RootNode
+    13700000: fairingSet
+    13700002: frontAxle
+    13700004: frontMudGuard
+    13700006: frontWheel
+    13700008: fuelTank
+    13700010: handle
+    13700012: headLight
+    13700014: leftShockAb
+    13700016: rearAxle
+    13700018: rearWheel
+    13700020: rightShockAb
+    13700022: seat
+    13700024: tailLight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
